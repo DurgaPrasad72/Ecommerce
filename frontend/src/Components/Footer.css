@@ -1,0 +1,12 @@
+.footer{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer:hover{
+    background-color: aqua;
+}
+.footer__down:hover{
+   color:brown;
+}
